@@ -20,12 +20,6 @@
 
 - 📫 How to reach me **hooriaajmal@example.com**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hooria-ajmal-544b67318) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hooriaajmal9@gmail.com)
-
-
-
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hooriaajmal&theme=dark&show_icons=true&locale=en&layout=compact" alt="hooriaajmal" /></p>
@@ -35,3 +29,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hooria-ajmal-544b67318) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hooriaajmal9@gmail.com)
