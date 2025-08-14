@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">I'm Hooria Ajmal from Attock, Pakistan.<br><br>- 🔭 I’m working as AI Engineer and Frontend Developer<br>- 📚 I'm currently learning LangChain, RAG Pipelines, and Advanced React Animations<br>- 👯 I’m looking to collaborate on AI & NLP Projects<br>- 🤝 I’m looking for help with Improving NLP models<br>- 👨‍💻 All of my projects are available at https://hooria-myportfolio.vercel.app/<br>- 💬 Ask me about Langchain, NLP, React, Tailwind CSS, and Framer Motion<br>- 📫 How to reach me hooriaajmal@example.com<br>- ⚡ In my free time I explore new technologies and build projects</p>
+<p align="left">I'm Hooria Ajmal from Attock, Pakistan.<br><br>- 🔭 I’m working as AI Engineer and Frontend Developer<br>- 📚 I'm currently learning LangChain, RAG Pipelines, and Advanced React Animations<br>- 👯 I’m looking to collaborate on AI & NLP Projects<br>- 👨‍💻 All of my projects are available at https://hooria-myportfolio.vercel.app/<br>- 💬 Ask me about Langchain, NLP, React, Tailwind CSS, and Framer Motion<br>- 📫 How to reach me hooriaajmal@gmail.com<br>- ⚡ In my free time I explore new technologies and build projects</p>
 
 ###
 
