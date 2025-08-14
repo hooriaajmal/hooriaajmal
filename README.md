@@ -20,7 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/hooria-ajmal-544b67318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/hooria-ajmal-544b67318" height="30" width="40" /></a>
-<a href="https://kaggle.com/hooriaajmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hooriaajmal" height="30" width="40" /></a>
+<a href="mailto:hooriaajmal9@gmail.com" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="hooriaajmal9@gmail.com" height="30" width="40" />
+</a>
+
 </p>
 
 # 💻 Tech Stack:
