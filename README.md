@@ -83,5 +83,5 @@
 ---
 
 <div align="center">
-  <sub>Designed & Developed by Hooria Ajmal • Let's build the future with AI 🚀</sub>
+  <sub>Designed & Developed by Hooria Ajmal</sub>
 </div>
