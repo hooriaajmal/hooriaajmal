@@ -89,12 +89,3 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hooriaajmal&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hooriaajmal&theme=dark&show_icons=true&locale=en&layout=compact" alt="hooriaajmal" />
-  <img src="https://github-profile-trophy.vercel.app/?username=hooriaajmal" alt="hooriaajmal" />
-</div>
