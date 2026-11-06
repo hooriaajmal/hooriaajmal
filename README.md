@@ -1,91 +1,87 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  />
+
+  # ⚡ Hi there, I'm [Hooria Ajmal](https://hooria-myportfolio.vercel.app/) 👋
+  ### **AI Engineer & Full-Stack Intelligent Systems Developer**
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hooria-myportfolio.vercel.app/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hooria-ajmal-544b67318)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooriaajmal@gmail.com)
+  [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hooriaajmal.hooriaajmal&left_color=1f2937&right_color=3b82f6)](https://github.com/hooriaajmal)
+
+  <p align="center">
+    <i>Transforming complex data into intelligent products — specializing in Generative AI, RAG Architectures, and Full-Stack AI Integration.</i>
+  </p>
+
 </div>
 
-###
+---
+
+### 🧠 About Me
+
+- 📍 Based in **Attock, Pakistan**
+- 🔭 **Current Role**: AI Engineer & Frontend Developer building production-ready AI applications
+- 🎯 **Specialization**: RAG (Retrieval-Augmented Generation), Agentic Workflows, NLP Pipelines, and Interactive UIs
+- 📚 **Currently Leveling Up**: Advanced LangChain / LangGraph, Vector Databases, and Scalable GenAI Systems
+- 🤝 **Open to Collaboration**: AI/ML research projects, LLM applications, and open-source tooling
+- 🌐 **Showcase**: Explore my live deployments and demos on my [Interactive Portfolio](https://hooria-myportfolio.vercel.app/)
+
+---
+
+### 🛠 Tech Stack & Tooling
+
+#### 🤖 Artificial Intelligence & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
+
+#### 🌐 Backend & Data Layer
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</p>
+
+#### 💻 Frontend & Client Architecture
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### ⚙️ Developer Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hooria-ajmal-544b67318">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/hooriaajmal">
-    <img src="https://img.shields.io/static/v1?message=Github&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hooriaajmal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Hooria's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hooriaajmal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-###
+<div align="center" style="margin-top: 10px;">
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=hooriaajmal&theme=tokyonight&hide_border=true" alt="Hooria's GitHub Streak" />
+</div>
+
+---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hooriaajmal.hooriaajmal&"  />
+  <sub>Designed & Developed by Hooria Ajmal • Let's build the future with AI 🚀</sub>
 </div>
-
-###
-
-<h1 align="center">Hi 👋, I'm Hooria</h1>
-
-###
-
-<h3 align="center">A passionate AI Engineer and Frontend Developer</h3>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Hooria Ajmal from Attock, Pakistan.<br><br>- 🔭 I’m working as AI Engineer and Frontend Developer<br>- 📚 I'm currently learning LangChain, RAG Pipelines, and Advanced React Animations<br>- 👯 I’m looking to collaborate on AI & NLP Projects<br>- 👨‍💻 All of my projects are available at https://hooria-myportfolio.vercel.app/<br>- 💬 Ask me about Langchain, NLP, React, Tailwind CSS, and Framer Motion<br>- 📫 How to reach me hooriaajmal@gmail.com<br>- ⚡ In my free time I explore new technologies and build projects</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
