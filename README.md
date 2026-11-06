@@ -5,7 +5,7 @@
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hooria-myportfolio.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hooria-ajmal-544b67318)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooriaajmal@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hooriaajmal9@gmail.com)
   [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hooriaajmal.hooriaajmal&left_color=1f2937&right_color=3b82f6)](https://github.com/hooriaajmal)
 
   <p align="center">
